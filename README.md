@@ -37,8 +37,8 @@ sphere/
 
 Изображения можно встроить в README, добавив строки:
 
-![График перемещений](<img width="822" height="534" alt="image" src="https://github.com/user-attachments/assets/ab1070f2-7617-4b24-b5fa-fb7a80721e1c" />)  
-![Эпюра радиальных напряжений](<img width="818" height="546" alt="image" src="https://github.com/user-attachments/assets/7f6a8ac2-2589-4d5e-98ba-8af33d414d6a" />)
+![График перемещений]<img width="822" height="534" alt="image" src="https://github.com/user-attachments/assets/ab1070f2-7617-4b24-b5fa-fb7a80721e1c" />)  
+![Эпюра радиальных напряжений]<img width="818" height="546" alt="image" src="https://github.com/user-attachments/assets/7f6a8ac2-2589-4d5e-98ba-8af33d414d6a" />)
 
 ## 🚀 Как запустить
 
